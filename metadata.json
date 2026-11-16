@@ -1,0 +1,8 @@
+{
+  "name": "Sri Krishna College, Coimbatore",
+  "description": "Official institutional portal for Sri Krishna College of Engineering and Technology (SKCET), Kuniamuthur, Coimbatore — Autonomous engineering, technology, and management education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
